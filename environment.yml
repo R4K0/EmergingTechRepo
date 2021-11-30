@@ -6,5 +6,6 @@ channels:
 dependencies:
   - python
   - scikit-learn
+  - matplotlib
   - pip
 prefix: C:\Users\Milosz\anaconda3\envs\jupyter
