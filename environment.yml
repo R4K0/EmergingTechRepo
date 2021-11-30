@@ -1,5 +1,10 @@
 name: jupyter
 channels:
+  - scikit-learn
   - conda-forge
   - defaults
+dependencies:
+  - python
+  - scikit-learn
+  - pip
 prefix: C:\Users\Milosz\anaconda3\envs\jupyter
