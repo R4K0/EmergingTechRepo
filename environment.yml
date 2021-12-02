@@ -8,4 +8,5 @@ dependencies:
   - scikit-learn
   - matplotlib
   - pip
+  - pandas
 prefix: C:\Users\Milosz\anaconda3\envs\jupyter
